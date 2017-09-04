@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinder", "PathFinder.csproj", "{71446A51-1341-4D90-9021-5274F03248CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71446A51-1341-4D90-9021-5274F03248CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71446A51-1341-4D90-9021-5274F03248CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71446A51-1341-4D90-9021-5274F03248CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71446A51-1341-4D90-9021-5274F03248CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

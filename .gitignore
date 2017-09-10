@@ -1,7 +1,6 @@
 *.exe
 *.bat
 .vs
-*.config
 *.db
 bin
 obj
